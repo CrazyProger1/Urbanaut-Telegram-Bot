@@ -1,3 +1,3 @@
-# Traffix-Telegram-Bot
+# Urbanaut-Telegram-Bot
 
-Traffix telegram bot, written in Python.
+Urbanaut telegram bot, written in Python.
